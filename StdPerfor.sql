@@ -90,4 +90,9 @@ Race varchar(12),
 level_of_education varchar(12),
 test_course varchar(18),
 math_mark numeric,
-reading_mark numeric,
+reading_mark numeric);
+
+
+
+
+-- You Can Do The Same Thing in The Columns #############
